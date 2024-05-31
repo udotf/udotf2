@@ -22,6 +22,6 @@ UDOTF2.
 
 
 
-So an interesting thing I learned receintly.
+So an interesting thing I learned recently.
 
 I work from a laptop to a citrix workspace. I learned that I can use RDP to access the workspace and no longer need to go through 3 sites of authentication any more. Yay
